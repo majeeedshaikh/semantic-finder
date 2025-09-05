@@ -1,10 +1,10 @@
-# �� Semantic Finder
+# Semantic Finder
 
 > **Spotlight-style local multimodal semantic search for Mac** - Find your files by meaning, not just names!
 
 A powerful local search engine that understands the *content* of your files using AI embeddings. Search through text documents, images, PDFs, code files, and more using natural language queries.
 
-## �� **Why I Built This**
+## **Why I Built This**
 
 I wanted to make my life easier by having a search system that actually understands what's in my files. Instead of remembering exact filenames or folder structures, I can just search for concepts like "that document about machine learning" or "the image with a sunset" and find exactly what I'm looking for.
 
