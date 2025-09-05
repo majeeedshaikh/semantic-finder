@@ -5,3 +5,6 @@ __pycache__/
 *.db
 *.log
 
+
+# rename maps
+.rename_map/
